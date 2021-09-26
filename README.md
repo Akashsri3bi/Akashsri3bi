@@ -43,6 +43,3 @@
 
 -----
 Credits: [Akash Srivastava](https://github.com/Akashsri3bi)
-
-Last Edited on: 04/09/2021
-
