@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on Android Projects , python Projects
 
-- 🌱 I’m currently learning Machine learning , Android , artificial Intelligence , App development 
+- 🌱 I’m currently learning Machine learning , Android , Flutter , App development 
 
 - 👯 I’m looking to collaborate on Projects , Hit me a msg for Collab
 
