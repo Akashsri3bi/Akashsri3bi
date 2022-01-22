@@ -13,11 +13,11 @@
 
 - 🔭 I’m currently working on Flutter Projects , Firebase , dart
 
-- 🌱 I’m currently learning App development , Android , Flutter , App development 
+- 🌱 I’m currently learning App development , Android , Flutter , Firebase
 
 - 👯 I’m looking to collaborate on Projects , Hit me a msg for Collab
 
-- 💬 Talk to me about Python, java , android studio ,  Open Source 
+- 💬 Talk to me about Flutter , java , dart ,android studio , DSA ,Open Source 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div style="text-align: center; padding-right: 10px;">
