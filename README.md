@@ -11,9 +11,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Android Projects , python Projects
+- 🔭 I’m currently working on Flutter Projects , Firebase , dart
 
-- 🌱 I’m currently learning Machine learning , Android , Flutter , App development 
+- 🌱 I’m currently learning App development , Android , Flutter , App development 
 
 - 👯 I’m looking to collaborate on Projects , Hit me a msg for Collab
 
