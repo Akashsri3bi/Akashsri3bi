@@ -33,6 +33,8 @@
  <img height="60" src="https://camo.githubusercontent.com/17e382d90aa2cf11d61893106ac3cbd5d10d6023bd9d916ea053231715d97ed8/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676f6f676c652d636c6f75642e706e67"/>
  <img height="60" src="https://camo.githubusercontent.com/2f7d9c653bd1edd735b3db07d7c4b47ae45959e17c14053fa4f543ac93cc1a8c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67"/>
  <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"/>
+ <img height="60" src="https://camo.githubusercontent.com/c53e01bba2d0abbd5b73019fca355bb2560f4cd1a567ce239dbb53ba3f129515/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6669676d612d2d76312e706e67"/>
+ <img height="50" src="https://onlinemasters.jou.ufl.edu/wp-content/uploads/2018/10/Canva-app-icon.jpg"/>
  
  </div>
  <br>
